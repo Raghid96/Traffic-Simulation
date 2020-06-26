@@ -6,11 +6,14 @@ The main method will run a traffic simulation of a intersection
 # The output of the simulation
 
 ------------- Time = 1 ----------------------
+
 (R)<[W, W, W, W, W, W, W, W]><[W, S, W, W, S, W, W, W, S, S]> Q [W, S, W, S]
 
 (R)<[S, ., ., ., ., ., ., .]>
 
 ------------- Time = 2 ----------------------
+
+
 (R)<[W, W, W, W, W, W, W, W]><[W, S, W, W, S, W, W, W, S, S]> Q [W, S, W, S]
 
 (G)<[S, ., ., ., ., ., ., .]>
